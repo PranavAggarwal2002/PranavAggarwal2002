@@ -158,30 +158,70 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
   <img src="https://github-profile-trophy.vercel.app/?username=PranavAggarwal2002" alt="GitHub Trophies" />
 </p>
 
-### 📫 Connect With Me
+## 🔗 📫 Connect With Me
 
-<p align="left">
+<table>
+<tr>
+<td align="center">
   <a href="https://www.linkedin.com/in/pranavaggarwal2002/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="80" height="80" alt="LinkedIn"/>
+    <br><br>
+    <b>LinkedIn</b>
   </a>
-  &nbsp;&nbsp;
+  <br>
+  ─────────
+</td>
+
+<td align="center">
   <a href="mailto:pranavwal@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="80" height="80" alt="Gmail"/>
+    <br><br>
+    <b>Gmail</b>
   </a>
-  &nbsp;&nbsp;
+  <br>
+  ─────────
+</td>
+
+<td align="center">
   <a href="mailto:pranavwal@yahoo.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/yahoo.svg" alt="Yahoo" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/yahoo.svg" width="80" height="80" alt="Yahoo"/>
+    <br><br>
+    <b>Yahoo</b>
   </a>
-  &nbsp;&nbsp;
+  <br>
+  ─────────
+</td>
+
+<td align="center">
   <a href="mailto:pranavwal@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Outlook" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="80" height="80" alt="Outlook"/>
+    <br><br>
+    <b>Outlook</b>
   </a>
+  <br>
+  ─────────
+</td>
+</tr>
+</table>
+
+### 📧 Email
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="22" height="22" alt="Gmail"/>
+  &nbsp;
+  <a href="mailto:pranavwal@gmail.com">pranavwal@gmail.com</a>
 </p>
 
 <p>
-  📧 <a href="mailto:pranavwal@gmail.com">pranavwal@gmail.com</a><br>
-  📧 <a href="mailto:pranavwal@yahoo.com">pranavwal@yahoo.com</a><br>
-  📧 <a href="mailto:pranavwal@outlook.com">pranavwal@outlook.com</a>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/yahoo.svg" width="22" height="22" alt="Yahoo"/>
+  &nbsp;
+  <a href="mailto:pranavwal@yahoo.com">pranavwal@yahoo.com</a>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="22" height="22" alt="Outlook"/>
+  &nbsp;
+  <a href="mailto:pranavwal@outlook.com">pranavwal@outlook.com</a>
 </p>
 
 ---

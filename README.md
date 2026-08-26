@@ -150,7 +150,10 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranavAggarwal2002" alt="GitHub Trophies" />
+  <img
+    src="https://github-trophies.vercel.app/?username=PranavAggarwal2002&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ## 🔗 📫 Connect With Me

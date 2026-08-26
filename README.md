@@ -4,17 +4,11 @@
 
 <div align="center">
 
-<a href="https://github.com/PranavAggarwal2002">
-  <img src="https://komarev.com/ghpvc/?username=PranavAggarwal2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=PranavAggarwal2002&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/PranavAggarwal2002)
 &nbsp;&nbsp;
-<a href="https://github.com/PranavAggarwal2002?tab=followers">
-  <img src="https://img.shields.io/github/followers/PranavAggarwal2002?label=Followers&color=0e75b6&style=flat" alt="Followers" />
-</a>
+[![Followers](https://img.shields.io/github/followers/PranavAggarwal2002?label=Followers&color=0e75b6&style=flat)](https://github.com/PranavAggarwal2002?tab=followers)
 &nbsp;&nbsp;
-<a href="https://github.com/PranavAggarwal2002?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&label=Repos&color=0e75b6&style=flat" alt="Repositories" />
-</a>
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&label=Repos&color=0e75b6&style=flat)](https://github.com/PranavAggarwal2002?tab=repositories)
 
 </div>
 

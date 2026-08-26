@@ -164,7 +164,7 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
 <tr>
 <td align="center" width="170">
   <a href="https://www.linkedin.com/in/pranavaggarwal2002/" target="_blank">
-    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)" width="80" height="80" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80" alt="LinkedIn"/>
     <br><br>
     <b>LinkedIn</b>
   </a>

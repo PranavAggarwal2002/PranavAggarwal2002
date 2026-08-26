@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/PranavAggarwal2002?tab=repositories">
-    <img src="https://img.shields.io/github/repos/PranavAggarwal2002?label=Repos&color=0e75b6&style=flat" alt="Repositories" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&label=Repos&color=0e75b6&style=flat" alt="Repositories" />
   </a>
 </p>
 

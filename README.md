@@ -11,6 +11,7 @@
 [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&label=Repos&color=0e75b6&style=flat)](https://github.com/PranavAggarwal2002?tab=repositories)
 
 </div>
+
 <p align="center">
   I’m a Full-Stack Developer and AI/ML enthusiast with hands-on experience building web applications,
   backend services, REST APIs, cloud-based solutions, and machine learning projects.

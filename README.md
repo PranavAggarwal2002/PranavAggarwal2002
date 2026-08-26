@@ -162,9 +162,9 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="170">
   <a href="https://www.linkedin.com/in/pranavaggarwal2002/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="80" height="80" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80" alt="LinkedIn"/>
     <br><br>
     <b>LinkedIn</b>
   </a>
@@ -172,9 +172,9 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
   ─────────
 </td>
 
-<td align="center">
+<td align="center" width="170">
   <a href="mailto:pranavwal@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="80" height="80" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="80" height="80" alt="Gmail"/>
     <br><br>
     <b>Gmail</b>
   </a>
@@ -182,9 +182,9 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
   ─────────
 </td>
 
-<td align="center">
+<td align="center" width="170">
   <a href="mailto:pranavwal@yahoo.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/yahoo.svg" width="80" height="80" alt="Yahoo"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/yahoo.svg" width="80" height="80" alt="Yahoo" style="color:#6001D2;"/>
     <br><br>
     <b>Yahoo</b>
   </a>
@@ -192,9 +192,9 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
   ─────────
 </td>
 
-<td align="center">
+<td align="center" width="170">
   <a href="mailto:pranavwal@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="80" height="80" alt="Outlook"/>
+    <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-outlook.svg" width="80" height="80" alt="Outlook"/>
     <br><br>
     <b>Outlook</b>
   </a>
@@ -207,19 +207,19 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
 ### 📧 Email
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="22" height="22" alt="Gmail"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="24" height="24" alt="Gmail"/>
   &nbsp;
   <a href="mailto:pranavwal@gmail.com">pranavwal@gmail.com</a>
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/yahoo.svg" width="22" height="22" alt="Yahoo"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/yahoo.svg" width="24" height="24" alt="Yahoo"/>
   &nbsp;
   <a href="mailto:pranavwal@yahoo.com">pranavwal@yahoo.com</a>
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" width="22" height="22" alt="Outlook"/>
+  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-outlook.svg" width="24" height="24" alt="Outlook"/>
   &nbsp;
   <a href="mailto:pranavwal@outlook.com">pranavwal@outlook.com</a>
 </p>

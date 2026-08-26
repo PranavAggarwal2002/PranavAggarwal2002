@@ -130,7 +130,7 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="45" height="45" alt="Kaggle" title="Kaggle"/>
 </p>
 
-## 📊 Contributions
+## 🐍 Contribution Activity
 
 <p align="center">
   <img

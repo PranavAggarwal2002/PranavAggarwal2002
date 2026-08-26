@@ -133,11 +133,11 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavAggarwal2002&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=PranavAggarwal2002&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavAggarwal2002&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PranavAggarwal2002&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">

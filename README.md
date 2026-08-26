@@ -8,11 +8,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/PranavAggarwal2002?tab=followers">
-    <img src="https://img.shields.io/github/followers/PranavAggarwal2002?style=flat&logo=github&logoColor=white&label=Followers&labelColor=0e75b6&color=0e75b6" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/PranavAggarwal2002?label=Followers&color=0e75b6&style=flat" alt="Followers" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/PranavAggarwal2002?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&style=flat&logo=github&logoColor=white&label=Repos&labelColor=0e75b6&color=0e75b6" alt="Repositories" />
+    <img src="https://img.shields.io/github/repos/PranavAggarwal2002?label=Repos&color=0e75b6&style=flat" alt="Repositories" />
   </a>
 </p>
 

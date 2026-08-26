@@ -172,13 +172,7 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
   ─────────
 </td>
 
-<td align="center" width="170">
-  <a href="mailto:pranavwal@gmail.com">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)" width="80" height="80" alt="Gmail"/>
-    <br><br>
-    <b>Gmail</b>
-  </a>
-  <br>
+<td align="center" width="170"> <a href="mailto:pranavwal@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/D14836" width="80" height="80" alt="Gmail"/> <br><br> <b>Gmail</b> </a> <br>
   ─────────
 </td>
 

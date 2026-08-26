@@ -3,9 +3,15 @@
 <h3 align="center">Full-Stack Developer | AI/ML Enthusiast | AWS Cloud Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/PranavAggarwal2002">
-    <img src="https://komarev.com/ghpvc/?username=PranavAggarwal2002&label=Profile%20Views&color=0e75b6&style=flat" alt="PranavAggarwal2002" />
+  <a href="https://github.com/PranavAggarwal2002?tab=followers">
+    <img src="https://img.shields.io/github/followers/PranavAggarwal2002?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=58A6FF" alt="Followers" />
   </a>
+
+  <a href="https://github.com/PranavAggarwal2002?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&style=flat-square&logo=github&logoColor=white&label=Repos&labelColor=0D1117&color=3FB950" alt="Repositories" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=PranavAggarwal2002&style=flat-square&label=Profile+views&color=58A6FF" alt="Profile views" />
 </p>
 
 <p align="center">

@@ -134,7 +134,7 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
 
 <p align="center">
   <img
-    src="https://github.com/PranavAggarwal2002/PranavAggarwal2002/blob/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/PranavAggarwal2002/PranavAggarwal2002/output/github-snake.svg"
     alt="GitHub Contribution Snake"
   />
 </p>

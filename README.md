@@ -164,11 +164,25 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
   <a href="https://www.linkedin.com/in/pranavaggarwal2002/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.kaggle.com/navstack" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
+  &nbsp;&nbsp;
+  <a href="mailto:pranavwal@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pranavwal@yahoo.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/yahoo.svg" alt="Yahoo" height="30" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pranavwal@outlook.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Outlook" height="30" width="40"/>
+  </a>
+</p>
 
-📧 **Email:** [pranavwal@gmail.com](mailto:pranavwal@gmail.com)
+<p>
+  📧 <a href="mailto:pranavwal@gmail.com">pranavwal@gmail.com</a><br>
+  📧 <a href="mailto:pranavwal@yahoo.com">pranavwal@yahoo.com</a><br>
+  📧 <a href="mailto:pranavwal@outlook.com">pranavwal@outlook.com</a>
+</p>
 
 ---
 

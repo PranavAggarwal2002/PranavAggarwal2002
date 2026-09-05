@@ -45,7 +45,7 @@ Building a cloud-based application for monitoring and analyzing suspicious payme
 * **[RiskSight – AWS Financial Payment Risk Intelligence Platform](https://github.com/PranavAggarwal2002/RiskSight-AWS-Based-Financial-Payment-Risk-Intelligence-Platform-Frontend)**
   Cloud-based payment monitoring and risk analysis platform using AWS services.
 
-* **Trekking Management Application**
+* **[Trekking Management Application](https://github.com/PranavAggarwal2002/TrekIndia---Trekking-Management-App)**
   Full-stack application built with Flask, Vue.js, SQLite, and Redis with role-based access, trek booking, management, and real-time tracking.
 
 * **Placement Portal Application**

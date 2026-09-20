@@ -1,246 +1,133 @@
 <h1 align="center">Hi there, I'm Pranav Aggarwal 👋</h1>
-
-<h3 align="center">Full-Stack Developer | AI/ML Enthusiast | AWS Cloud Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML & IoT Enthusiast</h3>
 
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=PranavAggarwal2002&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/PranavAggarwal2002)
-&nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/PranavAggarwal2002?label=Followers&color=0e75b6&style=flat)](https://github.com/PranavAggarwal2002?tab=followers)
-&nbsp;&nbsp;
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&label=Repos&color=0e75b6&style=flat)](https://github.com/PranavAggarwal2002?tab=repositories)
-
+  <a href="https://github.com/PranavAggarwal2002">
+    <img src="https://komarev.com/ghpvc/?username=PranavAggarwal2002&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/PranavAggarwal2002?tab=followers">
+    <img src="https://img.shields.io/github/followers/PranavAggarwal2002?label=Followers&color=8a2be2&style=flat-square" alt="Followers" />
+  </a>
+  <a href="https://github.com/PranavAggarwal2002?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranavAggarwal2002&query=%24.public_repos&label=Repos&color=8a2be2&style=flat-square" alt="Repos" />
+  </a>
 </div>
 
 <p align="center">
-  I’m a Full-Stack Developer and AI/ML enthusiast with hands-on experience building web applications,
-  backend services, REST APIs, cloud-based solutions, and machine learning projects.
-  I enjoy solving practical problems through software and building reliable, user-focused applications.
+  <i>Passionate about building scalable web applications, AI solutions, automation tools, and modern user experiences. <br>I enjoy solving practical problems through software and building reliable, user-focused applications.</i>
 </p>
 
----
+<br>
 
-### 👨‍💻 About Me
-
-* 💼 Worked as a **Web Developer (Associate) at Grant Thornton Bharat LLP**, building treasury-focused audit modules and internal workflow applications using React.js, Node.js, and Python.
-* 🌐 Worked on web and map-based applications using **React.js, JavaScript/TypeScript, Node.js, and MapLibre**.
-* 📱 Developed features for Android applications including **Galarm and Futuregrams** using Kotlin, HTML, and Python.
-* 🎓 **B.Tech in Electronics Engineering with IoT specialization** from J.C. Bose University of Science & Technology, YMCA.
-* 🎓 **Diploma in Data Science and Diploma in Programming** from IIT Madras.
-* 🤖 Interested in **AI/ML, full-stack development, cloud computing, data science, and IoT**.
-* ☁️ Currently expanding my cloud and data engineering skills with **Microsoft Fabric**.
-
-### 🔭 Currently Working On
-
-**RiskSight – AWS-Based Financial Payment Risk Intelligence Platform**
-
-Building a cloud-based application for monitoring and analyzing suspicious payment activity using AWS services and data-driven techniques.
-
-### 🌱 Currently Learning
-
-**Microsoft Fabric:** Data ingestion and processing using **Dataflows Gen2, Data Pipelines, Apache Spark, and KQL databases** as part of my **DP-700 certification preparation**.
-
-### 🚀 Featured Projects
-
-* **[RiskSight – AWS Financial Payment Risk Intelligence Platform](https://github.com/PranavAggarwal2002/RiskSight-AWS-Based-Financial-Payment-Risk-Intelligence-Platform-Frontend)**
-  Cloud-based payment monitoring and risk analysis platform using AWS services.
-
-* **[Trekking Management Application](https://github.com/PranavAggarwal2002/TrekIndia---Trekking-Management-App)**
-  Full-stack application built with Flask, Vue.js, SQLite, and Redis with role-based access, trek booking, management, and real-time tracking.
-
-* **Placement Portal Application**
-  Full-stack platform using Flask, Vue.js, SQLite, Redis, and Celery for company approvals, placement drives, student applications, eligibility validation, and recruitment tracking.
-
-* **Business Analytics Capstone – IIT Madras**
-  Performed data analysis and market study for a small business and developed a website to improve its online presence and customer reach.
-
-* **Flight Ticket Price Prediction**
-  Machine learning project using feature engineering and ensemble models including LightGBM, XGBoost, and CatBoost.
-
-* **Smart MCQ Solver – IIT Madras**
-  AI-based question-answering system using Siamese Bi-LSTM, MiniLM, and RoBERTa to rank answers based on contextual similarity.
-
-* **Smart Baby Monitor**
-  IoT-enabled baby crib with vital sign detection and alert systems using RF transceivers.
-
-* **Wireless Power Transfer for Electric Cars**
-  Research project involving wireless power transfer on roads for electric vehicles.
-
-## 🛠️ Languages & Technologies
-
-### Languages
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin" title="Kotlin"/>
-</p>
-
-### Frontend & Backend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" title="React"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js" title="Vue.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" title="Flask"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" title="Bootstrap"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" title="Tailwind CSS"/>
-</p>
-
-### Databases & Cloud
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" title="SQLite"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" title="Redis"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS" title="AWS"/>
-</p>
-
-### AI / Machine Learning
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn" title="Scikit-learn"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" title="TensorFlow"/>
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="45" height="45" alt="Kaggle" title="Kaggle"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio" title="Android Studio"/>
-</p>
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/PranavAggarwal2002/PranavAggarwal2002/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=PranavAggarwal2002&show_icons=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PranavAggarwal2002&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=PranavAggarwal2002&theme=default&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-trophies.vercel.app/?username=PranavAggarwal2002&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
-## 🔗 📫 Connect With Me
-
-<table>
-<tr>
-<td align="center" width="170">
-  <a href="https://www.linkedin.com/in/pranavaggarwal2002/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="80" height="80" alt="LinkedIn"/>
-    <br><br>
-    <b>LinkedIn</b>
-  </a>
-  <br>
-  ─────────
-</td>
-
-<td align="center" width="170">
-  <a href="mailto:pranavwal@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="80" height="80" alt="Gmail"/>
-    <br><br>
-    <b>Gmail</b>
-  </a>
-  <br>
-  ─────────
-</td>
-
-<td align="center" width="170">
-  <a href="mailto:pranavwal@yahoo.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" width="80" height="80" alt="Yahoo"/>
-    <br><br>
-    <b>Yahoo</b>
-  </a>
-  <br>
-  ─────────
-</td>
-
-<td align="center" width="170">
-  <a href="mailto:pranavwal@outlook.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" width="80" height="80" alt="Outlook"/>
-    <br><br>
-    <b>Outlook</b>
-  </a>
-  <br>
-  ─────────
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👤 About Me</h3>
+      <ul>
+        <li>💼 <b>Web Developer (Associate)</b> at <b>Grant Thornton Bharat LLP</b>, building treasury-focused audit modules and internal workflows.</li>
+        <li>🌐 Experienced with web and map-based applications using <b>React.js, Node.js, and MapLibre</b>.</li>
+        <li>📱 Developed Android features for <b>Galarm and Futuregrams</b> using Kotlin, HTML, and Python.</li>
+        <li>🎓 <b>B.Tech in Electronics Engineering (IoT)</b> from J.C. Bose UST, YMCA.</li>
+        <li>🎓 <b>Dual Diploma in Data Science & Programming</b> from IIT Madras.</li>
+        <li>☁️ Currently expanding cloud and data engineering skills with <b>Microsoft Fabric</b> (DP-700 prep).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3></> Tech Stack</h3>
+      <p align="center">
+        <b>Languages</b><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35" title="Kotlin"/>
+      </p>
+      <p align="center">
+        <b>Frontend & Backend</b><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="35" title="Vue.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="35" title="Flask"/>
+      </p>
+      <p align="center">
+        <b>Data, Cloud & AI</b><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="35" title="Redis"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="35" title="TensorFlow"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
-### 📧 Email
+### 📁 Featured Projects
 
-<p>
-  <img src="https://cdn.simpleicons.org/gmail/D14836" width="24" height="24" alt="Gmail"/>
-  &nbsp;
-  <a href="mailto:pranavwal@gmail.com">pranavwal@gmail.com</a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/PranavAggarwal2002/RiskSight-AWS-Based-Financial-Payment-Risk-Intelligence-Platform-Frontend">🛡️ RiskSight – AWS Financial Payment Intelligence</a></b><br>
+      Cloud-based payment monitoring and risk analysis platform utilizing AWS services.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/PranavAggarwal2002/TrekIndia---Trekking-Management-App">🏕️ Trekking Management Application</a></b><br>
+      Full-stack app (Flask, Vue.js, SQLite, Redis) with role-based access and real-time tracking.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎓 Placement Portal Application</b><br>
+      Platform using Flask, Redis, and Celery for company approvals, placement drives, and student applications.
+    </td>
+    <td width="50%" valign="top">
+      <b>🧠 Smart MCQ Solver (IIT Madras)</b><br>
+      AI-based QA system using Siamese Bi-LSTM, MiniLM, and RoBERTa to rank contextual similarity.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>✈️ Flight Ticket Price Prediction</b><br>
+      Machine learning project using feature engineering and ensemble models (LightGBM, XGBoost).
+    </td>
+    <td width="50%" valign="top">
+      <b>⚡ Wireless Power Transfer for EVs</b><br>
+      Research project involving wireless power transfer on roads for electric vehicles.
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" width="24" height="24" alt="Yahoo"/>
-  &nbsp;
-  <a href="mailto:pranavwal@yahoo.com">pranavwal@yahoo.com</a>
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" width="24" height="24" alt="Outlook"/>
-  &nbsp;
-  <a href="mailto:pranavwal@outlook.com">pranavwal@outlook.com</a>
-</p>
-
----
+### 📊 GitHub Analytics
 
 <p align="center">
-  <i>Building, learning, and solving real-world problems through technology.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavAggarwal2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavAggarwal2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PranavAggarwal2002&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=PranavAggarwal2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" alt="GitHub Trophies" />
+</p>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PranavAggarwal2002/PranavAggarwal2002/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranavaggarwal2002/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranavwal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:pranavwal@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo" />
+  </a>
+  <a href="mailto:pranavwal@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
 </p>
